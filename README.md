@@ -2,6 +2,6 @@
 ## "Каталог фильмов"
 
 Для запуска необходимо прописать следующие команды
-npm install
-npx json-server --watch db.json --port 3001
-npm run dev
+1. npm install
+2. npx json-server --watch db.json --port 3001
+3. npm run dev
